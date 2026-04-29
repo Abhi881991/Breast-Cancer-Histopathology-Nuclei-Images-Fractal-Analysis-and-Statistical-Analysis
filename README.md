@@ -1,0 +1,2 @@
+This repository presents a comprehensive computational analysis of segmented nuclei in breast cancer histopathology images, focusing on fractal geometry and the statistical characterization of spatial patterns.
+The study investigates whether nuclear distributions exhibit fractal-like scaling behavior across multiple spatial scales and evaluates the robustness of different fractal dimensions and their biophysical significance.
